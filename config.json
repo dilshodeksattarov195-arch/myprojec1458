@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersender",
+        "uuid": 4200498,
+        "checksum": "76bc6si"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
